@@ -28,6 +28,6 @@ Herramienta especializada en el análisis y visualización de datos de ventas. P
 
 📫 **Contacto:**
 - **GitHub:** [williamseleco](https://github.com/williamseleco)
-- **Email:** [Tu Correo Aquí]
+- **Email:** [williamsenrique474@gmail.com](mailto:williamsenrique474@gmail.com)
 
 *"Transformando código en herramientas de crecimiento empresarial."*
