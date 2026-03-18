@@ -8,6 +8,9 @@ Desarrollador enfocado en soluciones empresariales robustas y escalables, con am
 ### 🛒 [SICOM](https://github.com/williamseleco/sicom) / [SICOM Postgre SQL](https://github.com/williamseleco/sicomklkpostgre)
 Plataforma integral para la gestión de compras, inventario y ventas. Cuenta con algoritmos avanzados de sugerencia de pedidos basados en rendimiento de ventas y una interfaz altamente optimizada para dispositivos móviles (responsive).
 
+### 👥 SIGH (Sistema Integral de Gestión Humana)
+Sistema robusto para la administración del talento humano, control de asistencia en tiempo real y automatización de procesos de nómina complejos, garantizando precisión y cumplimiento administrativo.
+
 ### 🏪 [MultiMarket POS](https://github.com/williamseleco/MultiMarket-POS)
 Sistema de Punto de Venta (POS) diseñado para la agilidad operativa en comercios. Enfocado en la eficiencia de transacciones, manejo de inventario en tiempo real y facilidad de uso para el operador.
 
